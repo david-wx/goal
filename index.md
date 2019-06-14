@@ -8,3 +8,7 @@ layout: home
 
 
 # This is the home index
+
+https://david-wx.github.io/goal/
+
+https://github.com/david-wx/goal
